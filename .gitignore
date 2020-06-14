@@ -1,0 +1,5 @@
+.gradle
+.idea
+app/src/androidTest
+gradle-wrapper.jar
+gradle-wrapper.properties
